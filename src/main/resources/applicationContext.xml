@@ -9,4 +9,5 @@
                                 expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
+    <import resource="classpath:spring-mybatis.xml"/>
 </beans>
